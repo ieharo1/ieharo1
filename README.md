@@ -7,22 +7,27 @@
   <h3><b>Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/isaac-haro/" target="_blank">
-  <img align="center" alt="Isaac Haro | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/isaac.h001/" target="_blank">
-  <img align="center" alt="Isaac Haro | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/isaac.haro3" target="_blank">
-  <img align="center" alt="Isaac Haro | Facebook" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Facebook.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://wa.me/593988055517" target="_blank">
-  <img align="center" alt="Isaac Haro | Whatsapp" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Whatsapp" />
-</a> &nbsp;&nbsp;
-<a href="mailto:zackharo1@gmail.com" >
-  <img align="center" alt="Isaac Haro | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/isaac-haro/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" alt="LinkedIn" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/isaac.h001/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30px" alt="Instagram" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/isaac.haro3" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="30px" alt="Facebook" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://wa.me/593988055517" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="30px" alt="WhatsApp" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="mailto:zackharo1@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30px" alt="Gmail" />
+  </a>
 </p>
+
 <br>
 <pre>
 💻 I am an enthusiastic and committed Full Stack Developer | Focused on clean, scalable solutions
