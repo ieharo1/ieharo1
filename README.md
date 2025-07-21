@@ -27,8 +27,6 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="30px" alt="Gmail" />
   </a>
 </p>
-
-
 <br>
 <pre>
 💻 I am an enthusiastic and committed Full Stack Developer | Focused on clean, scalable solutions
@@ -44,7 +42,6 @@
 🎯 Interested in data-driven applications, backend scalability, and intelligent systems
 </pre>
 <br>
-### Languages and Tools: 
 <br>
 <br>
 <br>
@@ -58,7 +55,7 @@
 <!-- Tech stack icons based on Isaac Haro's skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,angular,livewire,python,java,cpp,cs,go,html,css,tailwind,bootstrap,mysql,mongodb,firebase,git,github,docker,linux,windows,vscode,figma,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,angular,python,java,cpp,cs,go,html,css,tailwind,bootstrap,mysql,mongodb,firebase,git,github,docker,linux,windows,vscode,figma,postman&perline=10" />
   </a>
 </p>
 <br>
