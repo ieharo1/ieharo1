@@ -71,5 +71,6 @@
 - 🧠 AI integration into web apps
 <br>
 <br>
-> *"Innovar es convertir el conocimiento en impacto. Gracias por visitar mi perfil."* – Isaac Haro
+"Innovar es convertir el conocimiento en impacto. Gracias por visitar mi perfil."– Isaac Haro
+<br>
 Last Edited on: 2025
