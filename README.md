@@ -8,25 +8,26 @@
   </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-haro/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="30px" alt="LinkedIn" />
   </a> &nbsp;&nbsp;
-  
+
   <a href="https://www.instagram.com/isaac.h001/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30px" alt="Instagram" />
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="30px" alt="Instagram" />
   </a> &nbsp;&nbsp;
-  
+
   <a href="https://www.facebook.com/isaac.haro3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="30px" alt="Facebook" />
+    <img src="https://img.icons8.com/color/48/facebook.png" width="30px" alt="Facebook" />
   </a> &nbsp;&nbsp;
-  
+
   <a href="https://wa.me/593988055517" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="30px" alt="WhatsApp" />
+    <img src="https://img.icons8.com/color/48/whatsapp.png" width="30px" alt="WhatsApp" />
   </a> &nbsp;&nbsp;
-  
+
   <a href="mailto:zackharo1@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30px" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="30px" alt="Gmail" />
   </a>
 </p>
+
 
 <br>
 <pre>
