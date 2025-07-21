@@ -55,5 +55,21 @@
   </a>
 </p>
 <br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ieharo1&show_icons=true&theme=tokyonight" alt="Isaac's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ieharo1&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 <br>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🌱 Currently Learning</h2></summary>
+  </ul>
+</div>
+- 📘 Big Data with Apache Spark
+- ☁️ Cloud deployment (AWS, Azure)
+- 🧠 AI integration into web apps
+<br>
+<br>
+> *"Innovar es convertir el conocimiento en impacto. Gracias por visitar mi perfil."* – Isaac Haro
 Last Edited on: 2025
