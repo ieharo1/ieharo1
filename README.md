@@ -42,10 +42,6 @@
 🎯 Interested in data-driven applications, backend scalability, and intelligent systems
 </pre>
 <br>
-<br>
-<br>
-<br>
-<br>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -61,4 +57,3 @@
 <br>
 <br>
 Last Edited on: 2025
-
