@@ -40,20 +40,21 @@
 💻 Senior Full Stack Engineer with strong focus on Backend, Infrastructure & Automation
 📚 Bachelor's in Information Systems Engineering | Master’s in Big Data (in progress)
 
-🧠 Backend development with Python (Django), PHP (Laravel, Livewire) and C# (ASP.NET)
-🔁 Workflow automation and integrations using n8n (APIs, Webhooks, internal systems)
-🖥️ Server administration on Linux and Windows Server (on-prem & hybrid environments)
-🏢 Experience working with enterprise platforms such as SAP and Oracle ERP
-🗄️ Databases: PostgreSQL, MS SQL Server, MySQL, MongoDB, Oracle
-📜 PowerShell scripting for automation (backups, maintenance, operational tasks)
+🧠 Backend development with Python (Django), PHP (Laravel, Livewire) and C# (.NET)
+🔁 Workflow automation using n8n, Webhooks, APIs and AI integrations
+🖥️ Server administration on Linux and Windows Server (physical, virtual & hybrid)
+🏢 Experience working with enterprise platforms such as SAP Logon and ERP systems
+🗄️ Databases: SQL Server, PostgreSQL, MySQL, MongoDB, SQLite, Firebase / Firestore
+📜 Automation scripting with PowerShell & Bash (backups, maintenance, monitoring)
 🧱 Containerized environments using Docker & Docker Compose
-📡 Strong background in IT infrastructure, networking and systems operations
+📡 Strong background in IT infrastructure, networking, DNS, SSL and VPS hosting
 🔐 Focused on security, access control, RBAC and operational stability
-🔧 Building internal systems, dashboards, APIs and monitoring solutions
+🔧 Building internal systems, dashboards, APIs, CI/CD pipelines and monitoring tools
+🤖 Messaging automation with Telegram Bots and scheduled tasks (Celery)
 🌍 Academic exchange in Argentina | Experience collaborating with remote teams
 
 🌟 Main languages: Python, PHP, JavaScript, C#, Golang
-🎯 Interested in backend scalability, automation, data-driven systems and reliability
+🎯 Interested in backend scalability, automation, DevOps practices and data-driven systems
 </pre>
 
 <br>
@@ -68,7 +69,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,react,angular,cs,dotnet,go,html,css,tailwind,bootstrap,mysql,postgres,mongodb,firebase,git,github,docker,linux,windows,vscode,figma,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,react,angular,cs,dotnet,go,html,css,tailwind,bootstrap,mysql,postgres,mongodb,firebase,git,github,docker,linux,windows,nginx,vscode,postman&perline=10" />
   </a>
 </p>
 
@@ -91,14 +92,14 @@
 </div>
 
 - 🐍 Advanced backend architecture with Django
-- 🔁 Automation and orchestration with n8n
+- 🔁 Automation & orchestration with n8n and Webhooks
 - 🐳 Dockerized infrastructures and local labs
 - 🖥️ Linux & Windows Server administration
-- 📜 PowerShell automation scripts
+- 📜 PowerShell & Bash automation scripts
 - 📊 Monitoring, backups and operational reliability
 - ☁️ Cloud & hybrid environments (AWS, Azure)
-- 📘 Big Data foundations with Apache Spark
-- 🧠 AI integrations into backend systems
+- 📘 Big Data foundations (Apache Spark, analytics)
+- 🧠 AI integrations into backend and automation workflows
 
 <br><br>
 
@@ -107,4 +108,4 @@
 
 <br>
 
-_Last Edited on: 2025_
+_Last Edited on: 2026_
