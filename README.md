@@ -18,20 +18,36 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-haro/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="30px" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="30px" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/isaac.h001/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="30px" alt="Instagram" />
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="30px" />
   </a> &nbsp;&nbsp;
   <a href="https://www.facebook.com/isaac.haro3" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook.png" width="30px" alt="Facebook" />
+    <img src="https://img.icons8.com/color/48/facebook.png" width="30px" />
   </a> &nbsp;&nbsp;
   <a href="https://wa.me/593988055517" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp.png" width="30px" alt="WhatsApp" />
+    <img src="https://img.icons8.com/color/48/whatsapp.png" width="30px" />
   </a> &nbsp;&nbsp;
   <a href="mailto:zackharo1@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="30px" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="30px" />
   </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h2>📌 Professional Profile</h2>
+</div>
+
+<p align="center">
+Backend-oriented engineer specialized in designing, automating and maintaining
+<strong>production-grade systems</strong> for enterprise and high-availability environments.
+</p>
+
+<p align="center">
+⚙️ Automation-first mindset · 🧱 Stable architectures · 🔐 Security-aware <br>
+🏢 Enterprise environments · 🚀 Continuous improvement · 📊 Data-driven decisions
 </p>
 
 <br>
@@ -50,7 +66,7 @@
 📡 Strong background in IT infrastructure, networking, DNS, SSL and VPS hosting
 🔐 Focused on security, access control, RBAC and operational stability
 🔧 Building internal systems, dashboards, APIs, CI/CD pipelines and monitoring tools
-🤖 Messaging automation with Telegram Bots and scheduled tasks (Celery)
+🤖 Messaging automation with Telegram Bots and scheduled tasks
 🌍 Academic exchange in Argentina | Experience collaborating with remote teams
 
 🌟 Main languages: Python, PHP, JavaScript, C#, Golang
@@ -71,14 +87,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,react,angular,cs,dotnet,go,html,css,tailwind,bootstrap,mysql,postgres,mongodb,firebase,git,github,docker,linux,windows,nginx,vscode,postman&perline=10" />
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ieharo1&show_icons=true&theme=tokyonight" alt="Isaac's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ieharo1&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <br>
@@ -104,7 +112,7 @@
 <br><br>
 
 "Innovar es convertir el conocimiento en impacto. Gracias por visitar mi perfil."  
-— **Isaac Haro**
+— <strong>Isaac Haro</strong>
 
 <br>
 
