@@ -14,27 +14,27 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/isaac-haro/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
+  <img alt="LinkedIn" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
 </a>
 
 <a href="https://www.instagram.com/isaac.h001/" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
+  <img alt="Instagram" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
 </a>
 
 <a href="https://www.facebook.com/isaac.haro3" target="_blank">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40"/>
+  <img alt="Facebook" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg"/>
 </a>
 
 <a href="https://wa.me/593988055517" target="_blank">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40"/>
+  <img alt="WhatsApp" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/>
 </a>
 
 <a href="mailto:zackharo1@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/D14836" width="40"/>
+  <img alt="Gmail" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
 </a>
 
 <a href="https://github.com/ieharo1" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/181717" width="40"/>
+  <img alt="GitHub" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
 </a>
 
 </p>
