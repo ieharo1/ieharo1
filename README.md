@@ -104,7 +104,7 @@ Backend-oriented Senior Engineer specialized in designing, automating, and maint
 | [**🧱 TETRIS PRO**](https://ieharo1.github.io/TETRIS-PRO/) | Classic tetris game | HTML5, CSS, JavaScript |
 | [**🐰 CONEJO SALTARIN**](https://ieharo1.github.io/CONEJO-SALTARIN/) | Jumping rabbit game | HTML5, CSS, JavaScript |
 | [**🦎 TERRA CREATURES**](https://ieharo1.github.io/TERRA-CREATURES/) | Creature exploration game | HTML5, CSS, JavaScript |
-| [**🎯 AIMBOT PROTOTYPE**](https://ieharo1.github.io/Prototipo-Aimbot-con-tiempo/) | Aimbot with timing system | JavaScript, HTML5 |
+| [**🎯 AIM LEGEND**](https://ieharo1.github.io/AIM-LEGEND/) | Aimbot with timing system | JavaScript, HTML5 |
 
 </div>
 
