@@ -1,12 +1,13 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
+<div align="center">
+
 # 👋 Welcome, I'm Isaac Haro
 
 ## Senior Full Stack Engineer | Backend · DevOps · Automation · AI
 
 ---
 
-<div align="center">
 
 ### 🌐 Let's Connect
 
