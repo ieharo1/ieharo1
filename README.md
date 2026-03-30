@@ -14,32 +14,30 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/isaac-haro/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 
 <a href="https://www.instagram.com/isaac.h001/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
 </a>
 
 <a href="https://www.facebook.com/isaac.haro3" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
 </a>
 
 <a href="https://wa.me/593988055517" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=whatsapp" width="40"/>
 </a>
 
 <a href="mailto:zackharo1@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
 </a>
 
 <a href="https://github.com/ieharo1" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
 </a>
 
 </p>
-
-</div>
 
 ---
 
