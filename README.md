@@ -68,7 +68,7 @@ Backend-oriented Senior Engineer specialized in designing, automating, and maint
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,php,laravel,js,ts,react,angular,vue,nodejs,express,cs,dotnet,go,java,c,cpp,html,css,tailwind,bootstrap,mysql,postgres,mongodb,sqlite,firebase,redis,git,github,gitlab,docker,kubernetes,linux,windows,nginx,vscode,vim,postman,figma,ps,bash,aws,azure,gcp,elasticsearch,grafana,prometheus,terraform,jenkins,ansible,openstack,rabbitmq,kafka,pytorch,tensorflow,opencv,threejs,nextjs,nuxtjs,gatsby,remix,astro,svelte,flask,pyramid,lua,rust,haskell,scala,perl,ruby&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,react,angular,cs,dotnet,go,html,css,tailwind,bootstrap,mysql,postgres,mongodb,firebase,git,github,docker,linux,windows,nginx,vscode,postman&perline=10" />
   </a>
 </p>
 
