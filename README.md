@@ -41,8 +41,8 @@ Backend-oriented Senior Engineer specialized in designing, automating, and maint
 ├── Backend: Python (Django, FastAPI), PHP (Laravel, Livewire), C# (.NET), Go, Node.js
 ├── Frontend: React, Angular, Vue, Bootstrap 5, HTML5, CSS3, JavaScript, TypeScript
 ├── Mobile: Flutter, Firebase
-├── Databases: SQL Server, PostgreSQL, MySQL, MariaDB, MongoDB, Redis, Elasticsearch
-├── DevOps: Docker, Kubernetes, CI/CD, Nginx, Apache, Gunicorn
+├── Databases: SQL Server, PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+├── DevOps: Docker, Kubernetes, CI/CD, Nginx, Linux
 ├── Cloud: AWS, Azure, VPS Hosting, SSL Configuration, DNS Management
 ├── Automation: n8n, Webhooks, APIs, PowerShell, Bash
 ├── AI/ML: Ollama LLM (local deployment), OpenCV, YOLO, Apache Spark
@@ -68,7 +68,7 @@ Backend-oriented Senior Engineer specialized in designing, automating, and maint
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,php,laravel,js,ts,react,angular,vue,nodejs,express,cs,dotnet,go,java,c,cpp,html,css,tailwind,bootstrap,sass,mysql,postgres,mongodb,mariadb,sqlite,firebase,redis,git,github,gitlab,docker,kubernetes,linux,windows,nginx,apache,vscode,vim,postman,figma,bash,powershell&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,php,laravel,js,ts,react,angular,vue,nodejs,express,cs,dotnet,go,java,c,cpp,html,css,tailwind,bootstrap,mysql,postgres,mongodb,sqlite,firebase,redis,git,github,gitlab,docker,kubernetes,linux,windows,nginx,vscode,vim,postman,figma,ps,bash,aws,azure,gcp,elasticsearch,grafana,prometheus,terraform,jenkins,ansible,openstack,rabbitmq,kafka,pytorch,tensorflow,opencv,threejs,nextjs,nuxtjs,gatsby,remix,astro,svelte,flask,pyramid,lua,rust,haskell,scala,perl,ruby&perline=12" />
   </a>
 </p>
 
@@ -270,11 +270,11 @@ Provides an innovative educational platform for students and professionals to ex
   <tr>
     <td align="center" valign="top">
       <h4>🗄️ Database Management</h4>
-      <p>SQL Server, PostgreSQL, MySQL, MariaDB, MongoDB, Redis, Elasticsearch</p>
+      <p>SQL Server, PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch</p>
     </td>
     <td align="center" valign="top">
       <h4>🐳 DevOps & Infrastructure</h4>
-      <p>Docker, Kubernetes, Nginx, Apache, Linux, Windows Server, CI/CD</p>
+      <p>Docker, Kubernetes, Nginx, Linux, Windows Server, CI/CD</p>
     </td>
     <td align="center" valign="top">
       <h4>🤖 Automation & AI</h4>
