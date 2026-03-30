@@ -6,6 +6,8 @@
 
 ## Senior Full Stack Engineer | Backend · DevOps · Automation · AI
 
+</div>
+
 ---
 
 
