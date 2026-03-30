@@ -140,7 +140,6 @@ Backend-oriented Senior Engineer specialized in designing, automating, and maint
 | Project | Description | Tech Stack |
 |:-------:|:-----------:|:----------:|
 | [**🔒 SECURITY PLAYGROUND**](https://ieharo1.github.io/SECURITY-PLAYGROUND/) | Security testing environment | HTML5, CSS, JavaScript |
-| [**📝 NGXINGS**](https://ieharo1.github.io/ngxings/) | Nginx utilities | Nginx, Shell Scripts |
 | [**📖 VIM EDITOR**](https://ieharo1.github.io/VIM/) | Vim configuration & tips | Vim, Shell |
 
 </div>
@@ -153,7 +152,6 @@ Backend-oriented Senior Engineer specialized in designing, automating, and maint
 |:-------:|:-----------:|:----------:|
 | [**📄 PROCESAMIENTO TEXTO LINUX**](https://ieharo1.github.io/PROCESAMIENTO-TEXTO-LINUX/) | Linux text processing guide | Bash, Linux |
 | [**🔍 ANALIZADOR SISTEMA LINUX**](https://ieharo1.github.io/ANALIZADOR-SISTEMA-LINUX/) | Linux system analyzer | Bash, Linux |
-| [**🎓 LINUX DESDE CERO**](https://ieharo1.github.io/LINUX-DESDE-CERO/) | Linux fundamentals | Linux, Bash |
 | [**⚙️ LINUX AVANZADO DEVOPS**](https://ieharo1.github.io/LINUX-AVANZADO-DEVOPS/) | Advanced Linux for DevOps | Linux, Docker, Kubernetes |
 
 </div>
